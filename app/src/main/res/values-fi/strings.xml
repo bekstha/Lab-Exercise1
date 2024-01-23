@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratorioharjoitukset</string>
+    <string name="hello_world">Hei maailma!</string>
+    <string name="_2">2</string>
+    <string name="click_me">Napsauta minua</string>
+    <string name="goodbye">Hyvästi pimeys!</string>
+
+</resources>
